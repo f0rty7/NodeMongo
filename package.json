@@ -1,0 +1,27 @@
+{
+  "name": "node-mogodb-api",
+  "version": "1.0.0",
+  "description": "\"NodeJS MongoDB CRUD App\"",
+  "main": "app.js",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "handlebars": "^4.5.1",
+    "mongodb": "^3.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f0rty7/NodeMongo.git"
+  },
+  "author": "Hem Sunder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f0rty7/NodeMongo/issues"
+  },
+  "homepage": "https://github.com/f0rty7/NodeMongo#readme"
+}

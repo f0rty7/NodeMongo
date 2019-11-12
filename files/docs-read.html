@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <body>
+    <a href="/">Home</a><br>
+    <h2>Read Data is</h2>
+        {{#each docs}}
+        <h3>Object Id: {{ _id }}</h3>
+        Username: {{ uname }}<br>
+        Message: {{ message }}<br>
+        {{/each}}
+    </body>
+</html>
