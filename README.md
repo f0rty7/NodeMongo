@@ -1,6 +1,5 @@
-# NodeMongo
+# NodeMongo Messages
 NodeJs Mongo CRUD App
-# **Messages**
 
 A simple `Web Server` created using `Node JS` and it's framework `Express`, performing `CRUD` operations on `MongoDB` database using it's `API` on linux machine
 
